@@ -1,0 +1,9 @@
+{
+  "name": "Sentinel Zimbabwe",
+  "description": "A community-driven safety and reporting app for Zimbabwe, powered by AI to track local issues, ZESA faults, and community updates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
